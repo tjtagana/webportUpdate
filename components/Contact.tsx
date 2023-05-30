@@ -17,7 +17,7 @@ const Contact = () => {
             <button
             className='w-[190px] h-14 border border-textGreen mt-6 font-titleFont text-sm text-textGreen tracking-wider rounded-md hover:bg-hoverColor duration-300'
             >
-                Let's work together
+                Let&apos;s work together
             </button>
         </a>
     </section>
