@@ -34,7 +34,7 @@ const Projects = () => {
                 </p>
                 <h3 className='text-2xl font-bold'>Book Haven<span className='text-textDark'> - Ecommerce Bookstore</span></h3>
                 <p className='bg-[#343a40] text-sm md:text-base p-2 md:p-6 rounded-md'>
-                <span className='text-textGreen'>Book Haven</span> revolutionizes online book shopping. With personalized accounts, a diverse catalog, and effortless order management, it's the ultimate destination for book enthusiasts. Discover, purchase, and enjoy a <span className='text-textGreen'>seamless shopping experience</span> at <span className='text-textGreen'>Book Haven.</span>
+                <span className='text-textGreen'>Book Haven</span> revolutionizes online book shopping. With personalized accounts, a diverse catalog, and effortless order management, it&apos;s the ultimate destination for book enthusiasts. Discover, purchase, and enjoy a <span className='text-textGreen'>seamless shopping experience</span> at <span className='text-textGreen'>Book Haven.</span>
                 </p>
                 <ul className='text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark'>
                     <li>Express.js</li>

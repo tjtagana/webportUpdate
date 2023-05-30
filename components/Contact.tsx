@@ -11,7 +11,7 @@ const Contact = () => {
         </p>
         <h2 className='font-titleFont text-5xl font-semibold'>Get In Touch</h2>
         <p className='max-w-[750px] text-center text-textDark tracking-wide'>
-        Are you seeking a web developer with a background in multimedia arts and a strong focus on UX design? Look no further! I offer a unique combination of creativity, technical expertise, and user-centered design thinking. Let's collaborate to create visually captivating and user-friendly websites that leave a lasting impression. Contact me today to shape the future of web development and UX design together.
+        Are you seeking a web developer with a background in multimedia arts and a strong focus on UX design? Look no further! I offer a unique combination of creativity, technical expertise, and user-centered design thinking. Let&apos;s collaborate to create visually captivating and user-friendly websites that leave a lasting impression. Contact me today to shape the future of web development and UX design together.
         </p>
         <a href="mailto:timothyjamestagana@gmail.com">
             <button

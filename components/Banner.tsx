@@ -32,7 +32,7 @@ const Banner = () => {
       transition={{ duration: 0.5, delay: 0.8 }}
       className='text-base md:max-w-[1000px] text-textDark tracking-wider font-normal'>
         {" "}
-        Hello, I'm excited to introduce myself! I am a highly versatile and creative professional with a diverse skill set encompassing Multimedia Arts, Web Development, and UX Design. With a background rooted in Multimedia Arts, I possess a unique ability to think creatively and approach projects from an artistic perspective. However, my journey didn't stop there—I smoothly transitioned into the world of Web Development and have now set my sights on pursuing UX Design.{" "}
+        Hello, I&apos;m excited to introduce myself! I am a highly versatile and creative professional with a diverse skill set encompassing Multimedia Arts, Web Development, and UX Design. With a background rooted in Multimedia Arts, I possess a unique ability to think creatively and approach projects from an artistic perspective. However, my journey didn&apos;t stop there—I smoothly transitioned into the world of Web Development and have now set my sights on pursuing UX Design.{" "}
         <a href="#about">
           <span className='text-textGreen inline-flex relative cursor-pointer h-7 overflow-x-hidden group font-semibold'
           >

@@ -40,7 +40,7 @@ const Navbar = () => {
   return (
     <div className='w-full shadow-navbarShadow h-20 lg:h-[12v] sticky top-0 z-50 bg-bodyColor px-4'>
       <div className='max-w-container h-full mx-auto py-1 font-titleFont flex items-center justify-between'>
-        <a href="/">
+        <Link href="/">
         <motion.div
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
@@ -52,7 +52,7 @@ const Navbar = () => {
           width={50}
           height={1000} />
         </motion.div>
-        </a>
+        </Link>
         <div className='hidden mdl:inline-flex items-center gap-7'>
             <ul className='flex text-[13px] gap-7'>
                 <Link
